@@ -125,7 +125,7 @@ adjustment) to compare them head-to-head.
    - If the CSV files are present, it skips re-running the GA simulations and
      immediately generates the statistical tables and PDF figures in a few
      seconds.
-   - If you want to run all 150 evolutionary simulations from scratch, simply
+   - If you want to run all 120 evolutionary simulations from scratch, simply
      delete or move the CSV files inside `results/` before running the cells.
 
 3. Run all cells in order from top to bottom ("Run All"):
